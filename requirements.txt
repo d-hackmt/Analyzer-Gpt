@@ -10,3 +10,4 @@ langchain_community
 langchain
 langchain-text-splitters
 streamlit
+autogen-ext[docker]

@@ -1,0 +1,9 @@
+DATA_ANALYZER_SYSTEM_MESSAGE = """
+
+
+
+
+
+
+
+"""
