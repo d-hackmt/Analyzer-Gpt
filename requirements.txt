@@ -1,0 +1,12 @@
+autogen-agentchat===0.5.7
+autogen-ext[openai]
+dotenv
+autogen-core
+pydantic
+autogen-ext[ollama]
+autogenstudio
+autogen-ext[http-tool]
+langchain_community
+langchain
+langchain-text-splitters
+streamlit
